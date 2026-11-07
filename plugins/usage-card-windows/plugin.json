@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "usage-card-windows",
+  "version": "0.2.1",
+  "description": "Help set up and troubleshoot the unofficial Windows Codex usage card. The sidebar card requires a separate launcher."
+}

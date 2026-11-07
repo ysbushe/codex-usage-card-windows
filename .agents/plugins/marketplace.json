@@ -1,0 +1,10 @@
+{
+  "name": "usage-card-windows-local",
+  "interface": { "displayName": "Usage Card Windows" },
+  "plugins": [{
+    "name": "usage-card-windows",
+    "source": { "source": "local", "path": "./plugins/usage-card-windows" },
+    "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+    "category": "Productivity"
+  }]
+}
